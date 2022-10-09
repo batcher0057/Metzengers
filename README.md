@@ -1,9 +1,9 @@
-## Projet "ALERT-MNS"
+## Projet "Metzengers"
 
 ### **Conception et réalisation d'une application de messagerie instantanée**
 
 ___
-\>\>\> La version web de l'application est disponible ici : http://metzengers.gloomy-zone.ovh/
+\>\>\> La version web de l'application est consultable ici : http://metzengers.gloomy-zone.ovh/
 
     > Cette version est compatible avec les principaux navigateurs (Chrome, Firefox, Edge, Safari)
 ___
