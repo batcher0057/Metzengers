@@ -1,0 +1,100 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MetzNenger.BackOffice.Web.UI
+build_property.RootNamespace = MetzNenger.BackOffice.Web.UI
+build_property.ProjectDir = C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.BackOffice.Web.UI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.BackOffice.Web.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Channels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbm5lbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Channels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbm5lbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Channels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbm5lbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Channels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbm5lbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Channels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbm5lbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/UserAccounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/UserAccounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/UserAccounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/UserAccounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/UserAccounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Utilisateur/Check.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJcQ2hlY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Utilisateur/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Utilisateur/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Utilisateur/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Utilisateur/Downloads/MetzNenger_Asp_dotNet_MVC (1)/MetzNenger_Asp_dotNet_MVC/MetzNenger_Asp_dotNet_MVC/MetzNenger.BackOffice.Web.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7tj0eszkeh

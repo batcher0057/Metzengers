@@ -1,0 +1,62 @@
+﻿<Window x:Class="Metz_N_enger_WPF.View.AccountPageAdmin"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Metz_N_enger_WPF"
+        mc:Ignorable="d"
+        Title="Acount" Height="700" Width="540"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" Background="{x:Null}" AllowsTransparency="True"
+        WindowStyle="None" 
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <materialDesign:Card UniformCornerRadius="15" Background="{DynamicResource MaterialDesignPaper}" Margin="25"
+                             materialDesign:ShadowAssist.ShadowDepth="Depth4"></materialDesign:Card>
+        <materialDesign:DialogHost CloseOnClickAway="True"
+                                   x:Name="CrtHost" >
+            <StackPanel >
+                <materialDesign:PopupBox HorizontalAlignment="Right"
+                                         Margin="0 30 30 0"
+                                         PlacementMode="BottomAndAlignLeftEdges"
+                                         StaysOpen="False"
+                                         Height="25"
+                                         >
+                    <StackPanel>
+                        <StackPanel Margin="16 10 0 6" Orientation="Horizontal"
+                                HorizontalAlignment="Center" >
+                            <TextBlock VerticalAlignment="Center" Text="Dark Mode"/>
+                            <ToggleButton Cursor="Hand" ToolTip="Enable Dark Mode" Margin="12 0 8 0"
+                                      x:Name="CreatToggle" IsChecked="{Binding IsDarkTheme}" Click="toggleTheme"/>
+                        </StackPanel>
+                        <Button ToolTip="Having trouble Loggin In?"
+                                Margin="0 8 0 0"
+                                Content="Acount"/>
+                        <Button x:Name="Creat_Exit" ToolTip="Close Application"
+                                Content="Exit Application"
+                                Click="exitApp"/>
+                    </StackPanel>
+                </materialDesign:PopupBox>
+                <Image Height="108" Source="/View/1024px-HAL9000.svg.png" Stretch="Uniform" Width="121" Margin="50"/>
+                <WrapPanel Width="480" Height="401">
+                    <TextBlock  TextWrapping="Wrap" x:Name="welcomebox" Height="77" Width="480" FontSize="20" />
+                    <StackPanel VerticalAlignment="Center" Height="329" Width="272">
+                        <Button Content="Valider un compte"  Width="240" Margin="15" Click="AccountTovalidate" />
+                        
+
+                        <Button Content="Créer un nouveau canal" Width="240" Click="CreateChanClick" Margin="15" />
+                        <Button Content="Supprimer un canal" Click="DeleteChannelClick" Width="240" Margin="15" />
+                        <Button Content="Supprimer un compte" Width="240" Click="DeleteAccountClick" Margin="15" />
+                        <Button Content="Quitter" Width="240" Click="ExitClick" Margin="15" />
+                    </StackPanel>
+                    <StackPanel Width="207">
+                        <ComboBox IsEnabled="True" x:Name="accountToValidate" Width="144" Margin="19"/>
+                        <TextBox x:Name="createChan" Margin="18"/>
+                        <ComboBox x:Name="deletchan" Margin="19" Width="140"/>
+                        <ComboBox x:Name="cbDelete" Margin="18" Width="155"/>
+                    </StackPanel>
+                </WrapPanel>
+            </StackPanel>
+        </materialDesign:DialogHost>
+    </Grid>
+</Window>

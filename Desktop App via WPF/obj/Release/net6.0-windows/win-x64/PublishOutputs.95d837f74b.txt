@@ -1,0 +1,8 @@
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\publish\Metz_N_enger_WPF.pdb
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\publish\D3DCompiler_47_cor3.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\publish\PenImc_cor3.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\publish\PresentationNative_cor3.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\publish\vcruntime140_cor3.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\publish\wpfgfx_cor3.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\publish\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\publish\Metz_N_enger_WPF.exe

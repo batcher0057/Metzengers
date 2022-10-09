@@ -1,0 +1,117 @@
+CREATE DATABASE Metzenger;
+GO
+
+USE Metzenger;
+GO
+
+CREATE TABLE Channel(
+   channel_id INT IDENTITY,
+   channel_name VARCHAR(50) NOT NULL,
+   PRIMARY KEY(channel_id),
+   UNIQUE(channel_name)
+);
+GO
+
+CREATE TABLE Bookmark(
+   bookmark_id INT IDENTITY,
+   PRIMARY KEY(bookmark_id)
+);
+GO
+
+CREATE TABLE Classroom(
+   class_id INT IDENTITY,
+   class_name VARCHAR(50) NOT NULL,
+   PRIMARY KEY(class_id),
+   UNIQUE(class_name)
+);
+GO
+
+CREATE TABLE Meeting(
+   meeting_id INT IDENTITY,
+   meeting_date DATETIME2 NOT NULL,
+   PRIMARY KEY(meeting_id)
+);
+GO
+
+CREATE TABLE UserAccount(
+   account_id INT IDENTITY,
+   email VARCHAR(128) NOT NULL,
+   password VARCHAR(128) NOT NULL,
+   nickname VARCHAR(128),
+   administrative_status VARCHAR(128) NOT NULL,
+   last_name VARCHAR(128) NOT NULL,
+   first_name VARCHAR(128) NOT NULL,
+   phone VARCHAR(128),
+   is_validated BIT NOT NULL,
+   is_admin BIT NOT NULL,
+   is_deleted BIT,
+   class_id INT,
+   PRIMARY KEY(account_id),
+   UNIQUE(email),
+   FOREIGN KEY(class_id) REFERENCES Classroom(class_id)
+);
+GO
+
+CREATE TABLE Message(
+   message_id INT IDENTITY,
+   timestamping DATETIME2 NOT NULL,
+   body VARCHAR(1000),
+   account_id INT NOT NULL,
+   channel_id INT,
+   PRIMARY KEY(message_id),
+   FOREIGN KEY(account_id) REFERENCES UserAccount(account_id),
+   FOREIGN KEY(channel_id) REFERENCES Channel(channel_id)
+);
+GO
+
+CREATE TABLE AttachedFile(
+   file_id INT IDENTITY,
+   file_name VARCHAR(100),
+   file_type VARCHAR(20) NOT NULL,
+   file_hash VARCHAR(128) NOT NULL,
+   message_id INT NOT NULL,
+   PRIMARY KEY(file_id),
+   FOREIGN KEY(message_id) REFERENCES Message(message_id)
+);
+GO
+
+CREATE TABLE Consult(
+   account_id INT,
+   message_id INT,
+   reading_date DATETIME2,
+   PRIMARY KEY(account_id, message_id),
+   FOREIGN KEY(account_id) REFERENCES UserAccount(account_id),
+   FOREIGN KEY(message_id) REFERENCES Message(message_id)
+);
+GO
+
+CREATE TABLE Archive(
+   account_id INT,
+   message_id INT,
+   bookmark_id INT,
+   PRIMARY KEY(account_id, message_id, bookmark_id),
+   FOREIGN KEY(account_id) REFERENCES UserAccount(account_id),
+   FOREIGN KEY(message_id) REFERENCES Message(message_id),
+   FOREIGN KEY(bookmark_id) REFERENCES Bookmark(bookmark_id)
+);
+GO
+
+CREATE TABLE Access(
+   account_id INT,
+   channel_id INT,
+   first_connection DATETIME2,
+   PRIMARY KEY(account_id, channel_id),
+   FOREIGN KEY(account_id) REFERENCES UserAccount(account_id),
+   FOREIGN KEY(channel_id) REFERENCES Channel(channel_id)
+);
+GO
+
+CREATE TABLE Invite(
+   account_id INT,
+   meeting_id INT,
+   meeting_title VARCHAR(50),
+   PRIMARY KEY(account_id, meeting_id),
+   FOREIGN KEY(account_id) REFERENCES UserAccount(account_id),
+   FOREIGN KEY(meeting_id) REFERENCES Meeting(meeting_id)
+);
+GO

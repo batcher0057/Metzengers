@@ -1,0 +1,143 @@
+USE Metzenger;
+GO
+
+INSERT INTO Classroom (class_name) 
+VALUES ('N/A'),('BSD'),('DS'),('INC'),('M2i'),('RAN1'),('RAN2'),('RAN3'),('RAN4');
+GO
+
+INSERT INTO UserAccount (email,password,nickname,administrative_status,last_name,first_name,phone,is_validated,is_admin,is_invited,class_id)
+VALUES
+  ('a.tortor@yahoo.com','1234','Admin','Etudiant','Mathoul','Olivier','02 45 57 84 11',0,1,0,2),
+  ('quis@hotmail.edu','YXH39VYR6EF','BlueMoon','Etudiant','Elzinga','Edouard','06 57 77 96 79',1,1,0,6),
+  ('purus.duis@google.ca','SPY16WRD0VE','Joker','Etudiant','Roth','William','08 87 71 35 87',1,1,0,3),
+  ('lobortis.quam@icloud.org','LHG21OBE8UK','Odin','Etudiant','Eikenboom','Andreas','03 48 87 36 85',0,1,0,8),
+  ('non.sollicitudin@outlook.org','IYH27EGN4NG','Alienor','Etudiant','Mills','Helen','08 67 73 87 25',0,1,0,2),
+  ('quisque.libero@yahoo.net','PEH81BXG4WP','Alfa','Etudiant','Cairo','Dennis','03 23 20 72 27',0,1,0,2),
+  ('non.dui@protonmail.org','VEO35DXU7LW','Bamby','Etudiant','Chandler','Tyrone','06 15 56 32 49',1,1,0,4),
+  ('ligula@icloud.net','KMX28AEK2DU','Barby','Etudiant','Burgess','Gail','06 15 50 77 19',1,1,0,2),
+  ('ac@protonmail.net','SVT62UMT2KB','BettyBoop','Etudiant','Potter','Charles','07 17 82 43 64',0,1,0,3),
+  ('sed.nunc.est@yahoo.net','MZK51LJP8ZE','Bijou','Etudiant','Grant','Desiree','07 13 05 37 75',0,1,0,3),
+  ('urna.nunc.quis@google.ca','RKP61SVJ6YV','Bulle','Etudiant','Blackwell','Magee','04 24 75 12 66',0,1,0,5),
+  ('suspendisse.non@aol.net','OGI18OXB2BE','Caramel','Etudiant','Webster','Rosalyn','08 79 22 21 14',0,1,0,6),
+  ('ultrices.sit.amet@hotmail.couk','KQH93BHO0WD','Cerise','Etudiant','Wong','Charissa','07 44 47 43 78',1,1,0,5),
+  ('nascetur.ridiculus@icloud.net','HHR76WMS1PT','CoCo','Etudiant','Graves','Harper','09 59 61 57 76',1,1,0,4),
+  ('facilisis.lorem.tristique@protonmail.ca','ASR82QKS6DL','Comete','Etudiant','Cameron','Damian','04 03 92 94 03',1,1,0,2),
+  ('elit@aol.couk','JZO03KDE6QU','Corail','Etudiant','Hodge','Desiree','01 78 91 42 58',1,1,0,2),
+  ('volutpat.nunc@hotmail.edu','VRD55LJN0BG','Cristal','Etudiant','Hawkins','Brent','04 89 44 10 77',0,1,0,2),
+  ('hendrerit.id.ante@aol.edu','JRF18YPM6XA','Elfe','Etudiant','Hawkins','Neve','04 47 63 53 82',0,1,0,5),
+  ('interdum@yahoo.ca','KEE16RYE5YC','Etoile','Etudiant','Forbes','Valentine','08 35 08 76 63',1,1,0,7),
+  ('egestas@aol.net','VAM64IHE9MU','Ficelle','Etudiant','Boyd','Noelle','05 45 48 52 57',0,1,0,3),
+  ('adipiscing.fringilla.porttitor@hotmail.couk','RDK17IYM6QO','Fifi','Etudiant','Mcmillan','Rama','04 44 61 58 70',0,1,0,3),
+  ('ac@outlook.com','SCR25KVX1UT','Folie','Etudiant','Jensen','Farrah','07 77 42 71 37',0,1,0,4),
+  ('sociis@hotmail.edu','USL62FQV6IS','Framboise','Etudiant','Bush','Clementine','02 63 82 26 09',1,1,0,4),
+  ('arcu.morbi@hotmail.edu','FHA26FHN9BR','Harmony','Etudiant','Rodgers','April','03 70 12 33 92',1,1,0,8),
+  ('vestibulum.ut@yahoo.com','NLR32KRO1QA','Hera','Etudiant','Gallagher','Devin','09 80 36 66 49',1,1,0,5),
+  ('ante@outlook.ca','FOB36XLT9BZ','Hysturia','Etudiant','Cole','Ariel','05 52 33 46 69',0,1,0,5),
+  ('sit.amet.ante@icloud.org','RFV55UXG5OH','Iris','Etudiant','Spears','Simon','07 63 49 23 68',0,1,0,6),
+  ('aliquam.vulputate@yahoo.ca','ERS25GWQ7VF','Isis','Etudiant','Morrow','Tad','06 24 45 43 95',1,1,0,4),
+  ('integer@google.couk','DQZ38PDB0QS','Keops','Etudiant','Alvarez','Rebekah','07 68 56 51 65',0,1,0,7),
+  ('neque.in@aol.couk','IJT44CYX8EL','Kiss','Etudiant','Burton','Blythe','05 25 92 61 58',0,1,0,3),
+  ('vulputate@outlook.com','XHP65GVK8HS','Luciole','Etudiant','Day','Rigel','05 77 65 15 61',0,1,0,5),
+  ('interdum.nunc@yahoo.ca','XPL38NPI8TX','Marmotte','Etudiant','Campbell','Benjamin','07 55 36 27 48',0,1,0,3),
+  ('nulla.facilisi.sed@aol.net','QCM55BYO2BH','Mira','Etudiant','Shaeleigh','Olsen','05 83 40 86 61',0,1,0,4),
+  ('in.faucibus@protonmail.edu','MVJ23MLW1PH','MonaLisa','Etudiant','Fitzgerald','Stacey','06 38 54 67 48',0,1,0,7),
+  ('a.tortor.nunc@aol.couk','LTN74ILP9YM','Narnia','Etudiant','Smith','Nolan','03 74 43 20 06',1,1,0,6),
+  ('arcu.vestibulum@yahoo.couk','MDG18QTN7RY','Neige','Etudiant','Gillespie','Charissa','09 55 56 46 29',1,1,0,3),
+  ('in.faucibus@yahoo.edu','LRB77IEN6PW','Nikita','Etudiant','Lynch','David','06 15 62 42 15',1,1,0,7),
+  ('aliquam.adipiscing@icloud.ca','XXO43UVC2NJ','Noisette','Etudiant','Harding','Baxter','03 78 75 02 68',1,1,0,3),
+  ('convallis.est.vitae@aol.com','UEY64NMD4FS','Opale','Etudiant','Pate','Hashim','09 25 90 75 39',0,1,0,4),
+  ('cum@aol.org','IPW70GUD5VB','Oreal','Etudiant','Head','Petra','02 03 16 95 83',0,1,0,7),
+  ('non.luctus@icloud.edu','NCP28DUF2NH','Papillon','Etudiant','Stewart','Sydnee','05 14 95 24 63',0,1,0,3),
+  ('tempus.scelerisque@aol.couk','QFQ56SGN3LV','Passion','Etudiant','Dominguez','Alexander','06 65 93 66 25',0,1,0,4),
+  ('aenean.gravida@google.net','YYU39LDK5OH','Perle','Etudiant','Atkins','Driscoll','06 53 58 41 53',0,1,0,3),
+  ('velit.in@icloud.ca','QDH35EHN8IX','ReLoaDeD','Etudiant','Whitehead','Hillary','08 16 54 86 46',1,1,0,4),
+  ('non.lacinia@aol.couk','BHT87GNN3VL','Bullet','Etudiant','Browning','Arsenio','05 25 74 26 41',0,1,0,7),
+  ('ante.ipsum@hotmail.com','ZFK74OHR1OF','Cardiac','Etudiant','Payne','Lee','05 64 70 39 42',1,1,0,8),
+  ('conubia.nostra@yahoo.edu','YPG15OKX5HY','Deathnew','Etudiant','Burgess','Ila','03 88 21 74 71',0,1,0,3),
+  ('enim.curabitur@outlook.ca','YVW69XXP3SD','Escobar','Etudiant','Patterson','Brody','03 64 41 65 67',0,1,0,4),
+  ('nec.luctus@outlook.edu','QNS27RHU2GB','Hoptoad','Etudiant','Eaton','Kai','02 94 71 06 64',1,1,0,7),
+  ('ultricies@hotmail.com','DRS88HYE7NT','Illuminatus','Etudiant','Davis','Arthur','03 11 91 25 56',1,1,0,3),
+  ('nibh.phasellus@icloud.com','LXF86UDX2WM','Krush','Etudiant','Klein','Hayley','04 30 34 06 52',1,1,0,5),
+  ('cursus@hotmail.ca','POV13YSM3HS','Mooney','Etudiant','Fitzpatrick','Judith','05 51 18 76 35',1,1,0,3),
+  ('hendrerit.donec@outlook.ca','DEZ26LHF7MT','Necrew','Etudiant','Love','Madeson','03 65 85 08 87',1,1,0,7),
+  ('a.odio@yahoo.net','XVF18QJW9ZW','Vendetta','Etudiant','Tucker','Mollie','08 13 54 32 79',1,1,0,2);
+GO
+
+INSERT INTO UserAccount (email,password,nickname,administrative_status,last_name,first_name,phone,is_validated,is_admin,class_id)
+VALUES
+  ('arcu.aliquam@google.edu','WBN67GSC1BR','Alpha','Intervenant','Borde','Patrick','03 52 82 47 48',1,1,1),
+  ('lacus.varius.et@aol.net','BIR26MGD2NX','Azkaban','Personnel','Rampello','Rose','02 14 77 93 85',1,1,1),
+  ('non.enim.commodo@protonmail.org','NFX79AFU5BR','Babar','Client','Plamondon','Roger','04 86 01 38 75',0,1,1),
+  ('penatibus.et@outlook.ca','TBE31GPA5WC','Baloo','Intervenant','Boivin','Hector','05 32 22 18 44',1,1,1),
+  ('ridiculus.mus@hotmail.ca','WBC06YWY4BF','Horus','Personnel','Malriat','Florie','03 73 85 62 21',0,1,1),
+  ('sapien@protonmail.net','QRE76CQI2XE','Idefix','Administrateur','Quirin','Franck','02 42 54 26 87',1,1,1),
+  ('proin.vel@aol.net','XXW97FEC9UN','IronMan','Client','Neuville','Gary','07 15 25 74 25',0,1,1),
+  ('eleifend.vitae@protonmail.edu','PGU33YRW7QZ','Jeronimo','Fournisseur','Roggeveen','Clement','09 82 27 03 32',1,1,1),
+  ('ipsum.curabitur.consequat@hotmail.edu','DQW71OHI4QD','Moon','Intervenant','Berg','Garcia','04 79 12 57 21',0,1,1),
+  ('a.odio@icloud.ca','HGG46UXI1YB','Nemo','Personnel','Heeren','Bobby','06 49 39 76 75',1,1,1),
+  ('orci@aol.ca','AMN25YZX9SN','Neo','Client','Villeneuve','Denis','04 58 79 85 73',1,1,1),
+  ('sed.tortor@icloud.ca','GNO64BIC6SW','Nibiru','Fournisseur','Cousineau','Tony','07 84 65 44 53',0,1,1),
+  ('sem.vitae@protonmail.couk','ECA00URP2LD','Optimus','Intervenant','Heeren','Jeremy','04 34 23 77 76',1,1,1),
+  ('aenean.euismod.mauris@hotmail.couk','TIZ33DXQ6DD','Osiris','Personnel','Aarden','Steve','08 26 21 62 36',0,1,1),
+  ('donec.est.nunc@yahoo.com','FJD13GMX1QH','Sentinel','Client','Segal','Steven','06 95 65 48 01',1,1,1),
+  ('metus.urna.convallis@hotmail.com','RUD22VEL6TK','Snoopy','Fournisseur','Aarle','Carlita','06 61 46 85 61',1,1,1);
+GO
+
+INSERT INTO Channel (channel_name) 
+VALUES ('General'),('Flash-info'),('Info-Covid-19'),('Helpdesk-technique'),('MNS-Family'),('Dev-Log-Java'),('Dev-Log-Dotnet'),('Accueil'),('Dev-Web');
+GO
+
+INSERT INTO Message (timestamping,body,is_favorite,account_id,channel_id)
+VALUES
+  ('2021-07-19 17:33:00','dui. Fusce aliquam, enim nec tempus',0,1,2),
+  ('2022-12-31 14:08:01','diam luctus lobortis. Class aptent taciti sociosqu ad litora',0,2,3),
+  ('2022-09-09 13:02:00','risus. Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt,',0,3,4),
+  ('2022-08-03 11:29:33','facilisis vitae, orci. Phasellus dapibus quam quis diam. Pellentesque',0,4,5),
+  ('2021-12-01 8:04:23','et, rutrum eu, ultrices sit amet,',1,5,6),
+  ('2022-02-17 0:18:38','Proin ultrices. Duis volutpat nunc sit amet metus. Aliquam',1,6,7),
+  ('2022-09-01 7:11:35','risus odio, auctor vitae, aliquet nec, imperdiet',0,7,8),
+  ('2021-12-28 20:07:16','eleifend nec, malesuada ut, sem.',0,8,9),
+  ('2022-11-22 23:56:38','gravida mauris ut mi. Duis risus odio, auctor',1,9,2),
+  ('2023-04-04 12:28:19','magna a neque. Nullam ut nisi',0,10,3),
+  ('2022-06-24 1:10:17','ullamcorper magna. Sed eu eros. Nam consequat dolor',0,11,4),
+  ('2021-09-16 18:12:45','Aenean massa. Integer vitae nibh. Donec est',0,12,5),
+  ('2021-10-12 20:03:55','In faucibus. Morbi vehicula. Pellentesque tincidunt',0,13,6),
+  ('2021-12-26 20:58:33','Donec nibh. Quisque nonummy ipsum non arcu.',0,14,7),
+  ('2023-02-15 15:58:30','a, enim. Suspendisse aliquet, sem ut cursus luctus,',1,15,8),
+  ('2021-04-14 14:51:17','consequat dolor vitae dolor. Donec fringilla. Donec feugiat',0,16,9),
+  ('2021-12-15 20:16:47','lorem ut aliquam iaculis, lacus pede sagittis augue,',0,17,2),
+  ('2023-04-05 12:13:51','leo. Cras vehicula aliquet libero. Integer in',1,18,3),
+  ('2022-04-07 11:23:33','arcu. Morbi sit amet massa.',0,19,4),
+  ('2021-09-10 5:02:47','consequat dolor vitae dolor. Donec fringilla.',1,20,5),
+  ('2022-12-02 17:10:29','euismod et, commodo at, libero. Morbi accumsan laoreet ipsum.',1,1,6),
+  ('2023-01-23 6:57:53','ipsum primis in faucibus orci luctus',0,2,7),
+  ('2023-02-09 17:21:18','dui lectus rutrum urna, nec luctus felis',0,3,8),
+  ('2023-02-02 14:17:32','sit amet, risus. Donec nibh enim, gravida sit amet,',1,4,9),
+  ('2021-04-19 23:58:26','Cras vehicula aliquet libero. Integer in magna. Phasellus',1,5,2),
+  ('2022-05-17 12:42:02','ornare lectus justo eu arcu. Morbi sit',0,6,3),
+  ('2022-04-17 23:24:28','adipiscing lobortis risus. In mi',1,7,4),
+  ('2023-03-02 22:42:57','sed orci lobortis augue scelerisque mollis.',1,8,5),
+  ('2021-08-26 7:09:43','malesuada vel, convallis in, cursus et, eros. Proin ultrices.',0,9,6),
+  ('2021-04-25 5:41:12','facilisis eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida',0,10,7),
+  ('2021-08-22 23:52:35','nostra, per inceptos hymenaeos. Mauris ut quam',1,11,8),
+  ('2021-09-06 22:32:13','nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam erat volutpat.',1,12,9),
+  ('2021-05-11 21:02:20','convallis convallis dolor. Quisque tincidunt pede ac',1,13,2),
+  ('2022-03-22 14:11:38','imperdiet non, vestibulum nec, euismod in,',0,14,3),
+  ('2023-02-09 20:27:36','amet, risus. Donec nibh enim, gravida sit',0,15,4),
+  ('2021-06-13 23:19:50','nisl. Quisque fringilla euismod enim. Etiam',1,16,5),
+  ('2022-08-06 0:05:22','dolor quam, elementum at, egestas a,',1,17,6),
+  ('2021-07-22 14:54:13','blandit mattis. Cras eget nisi dictum augue malesuada',0,18,7),
+  ('2022-08-26 5:31:16','arcu ac orci. Ut semper pretium neque. Morbi quis',1,19,8),
+  ('2022-12-08 20:41:31','Nullam lobortis quam a felis ullamcorper',0,20,9);
+GO
+
+INSERT INTO AttachedFile (file_name,file_type,file_hash,message_id)
+VALUES 
+  ('readme.txt','texte','8ed9577c1a1fcc3f3b153e3c92b94d33f160397b',1),
+  ('Partie 1 Introduction au WPF.pptx','diaporama','2198c1f47d8c961fb1dedc774a5477a0451d37d9',2),
+  ('bootstrap-5.1.3-dist.zip','archive','451685e9efac4a6dc1fee73ec53ffb6b2c4c38b5',3),
+  ('CALENDRIERS_CDA_2021-22.pdf','document','e01a490ca22c702683df2e78c431e7b2962cd8f0',4),
+  ('Dossier_professionnel_cda.docx','traitement de texte','a406ba30c677c4af2a9caa950639b384b9d73cbb',5),
+  ('SSMS-Setup-ENU.exe','executable','9be5104fc9581c7b10115ba1e88c3ae6c44979b8',6),
+  ('Comptabilite.xslx','tableur','07bd65bf06a9ab023e5384e80735366f8a7e80c6',6);
+GO

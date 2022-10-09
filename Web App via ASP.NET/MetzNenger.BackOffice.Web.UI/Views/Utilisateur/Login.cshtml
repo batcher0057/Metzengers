@@ -1,0 +1,26 @@
+﻿@model MetzNenger.Core.Data.Models.UserAccount
+
+<div class="container ">
+	@*<p>Utilisateur</p>
+	<input type="email" id="user" />*@
+@*	<p>Password</p>*@
+	@*<input type="password" id="password" />*@
+    <form id="profile-form" method="post" >
+	<div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input name="emailInput" asp-for="Email" class="form-control" type="email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+	<div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input name="passwordInput" asp-for="Password" class="form-control" type="password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+			<div class="form-group">
+                <input type="submit" value="Valider" class="btn colorsMnsOrange" asp-action="Check" />
+            </div>
+            </form>
+	@*<div class="form-group m-2">
+	<input type="submit" class="btn colorsMnsOrange" value"Edit">
+	</div>*@
+</div>

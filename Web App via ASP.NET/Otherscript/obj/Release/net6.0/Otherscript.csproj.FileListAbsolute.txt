@@ -1,0 +1,12 @@
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\bin\Release\net6.0\Otherscript.deps.json
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\bin\Release\net6.0\Otherscript.dll
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\bin\Release\net6.0\Otherscript.pdb
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\obj\Release\net6.0\Otherscript.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\obj\Release\net6.0\Otherscript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\obj\Release\net6.0\Otherscript.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\obj\Release\net6.0\Otherscript.AssemblyInfo.cs
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\obj\Release\net6.0\Otherscript.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\obj\Release\net6.0\Otherscript.dll
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\obj\Release\net6.0\refint\Otherscript.dll
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\obj\Release\net6.0\Otherscript.pdb
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\Otherscript\obj\Release\net6.0\ref\Otherscript.dll

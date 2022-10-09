@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\Properties\PublishProfiles\ClickOnceProfile2.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\Account.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AccountPageAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ModifierPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\RegisterWidows.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SendPersonnalMessage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SoftWare.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Account.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AccountPageAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ModifierPassword.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ModifierPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\RegisterWidows.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SendPersonnalMessage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SoftWare.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,89 @@
+﻿<Window x:Class="Metz_N_enger_WPF.SoftWare"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Metz_N_enger_WPF"
+        mc:Ignorable="d"
+        Title="Acount" Height="700" Width="540"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}" Background="{x:Null}" AllowsTransparency="True"
+        WindowStyle="None" 
+        WindowStartupLocation="CenterScreen">
+    <Grid >
+        <materialDesign:Card UniformCornerRadius="15" Background="{DynamicResource MaterialDesignPaper}" Margin="25"
+                             materialDesign:ShadowAssist.ShadowDepth="Depth4"></materialDesign:Card>
+        <materialDesign:DialogHost CloseOnClickAway="True"
+                                   x:Name="CrtHost" >
+            <StackPanel >
+                <materialDesign:PopupBox HorizontalAlignment="Right"
+                                         Margin="0 30 30 0"
+                                         PlacementMode="BottomAndAlignLeftEdges"
+                                         StaysOpen="False"
+                                         Height="25"
+                                         >
+                    <StackPanel>
+                        <StackPanel Margin="16 10 0 6" Orientation="Horizontal"
+                                HorizontalAlignment="Center" >
+                            <TextBlock VerticalAlignment="Center" Text="Dark Mode"/>
+                            <ToggleButton Cursor="Hand" ToolTip="Enable Dark Mode" Margin="12 0 8 0"
+                                      x:Name="CreatToggle" IsChecked="{Binding IsDarkTheme}" Click="toggleTheme"/>
+                        </StackPanel>
+                        <Button ToolTip="Having trouble Loggin In?"
+                                Margin="0 8 0 0"
+                                Content="Account"/>
+                        <Button x:Name="Creat_Exit" ToolTip="Close Application"
+                                Content="Exit Application"
+                                Click="exitApp"/>
+                    </StackPanel>
+                </materialDesign:PopupBox>
+                <WrapPanel   Height="381" Width="450"  HorizontalAlignment="Center">
+                    <ListBox  DisplayMemberPath="LibelleChannel" x:Name="chanList" Visibility="Visible" HorizontalAlignment="Center" Height="300"  Width="144" Padding="20" HorizontalContentAlignment="Center" SelectionChanged="chanList_SelectionChanged">
+
+                        <!--<ListBoxItem Visibility="Collapsed" Selected="SelectedLbtx"></ListBoxItem>
+                        <ListBoxItem Visibility="Visible" Selected="SelectedLbtx" >Chan#2</ListBoxItem>
+                        <ListBoxItem Visibility="Hidden" Selected="SelectedLbtx" >user#3</ListBoxItem>
+                        <ListBoxItem Selected="SelectedLbtx" >user#4</ListBoxItem>
+                        <ListBoxItem Selected="SelectedLbtx" >user#5</ListBoxItem>-->
+                        <!--<ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Margin="0,2">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*" />
+                                        <ColumnDefinition Width="100" />
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Visibility="Visible" Text="{Binding LibelleChannel}" />
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>-->
+                    </ListBox>
+                    <TextBox x:Name="chan" BorderThickness="1" IsReadOnly="True" TextWrapping="Wrap" Text="" Height="310" Width="294" />
+                    <TextBox  x:Name="txtBoxSend" Margin="60 20 0 20" TextWrapping="WrapWithOverflow" Text="Ecrivez votre message"  Width="207" Cursor="Arrow" MaxLength="1000" MaxLines="5" MaxHeight="41" />
+                    <Button Content="Envoyer" Height="28" Width="170" Click="SendClick"/>
+                </WrapPanel>
+                <StackPanel Width="484" Height="239" Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+                    <ListBox  HorizontalAlignment="Left" Height="157"  Width="222" Padding="20" HorizontalContentAlignment="Left" >
+                        <Button Content="Gestion Administrateur" Click="AcountClick" Width="197" />
+                        <Button Content="Envoyer un message privé" Click="SendPersonalMessages" Width="197" />
+                        <Button Content="Déconnexion" Click="LogOutClick" Width="197" />
+                    </ListBox>
+                    
+                    <TextBlock  FontSize="20"  x:Name="welcomeBox" TextWrapping="Wrap" Text="" Width="480" Height="30"/>
+                    <Button IsEnabled="False" x:Name="haveAMessages" Background="Transparent" Height="28" Width="191" BorderThickness="0" Click="HaveAMessages_Click">
+                        <TextBlock  Visibility="Visible" x:Name="MyFadingText" Width="159" Height="22" FontSize="15" FontWeight="Bold" Foreground="Orange"><!-- Animates the text block's opacity. -->
+                            <TextBlock.Triggers>
+                                <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Storyboard.TargetName="MyFadingText" Storyboard.TargetProperty="(UIElement.Opacity)" From="1.0" To="0.0" Duration="0:0:5" AutoReverse="True" RepeatBehavior="Forever" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger>
+                            </TextBlock.Triggers><Run Text="Vous avez un Message."/></TextBlock>
+                    </Button>
+                    <Image Source="/logo-mns.png" Height="23" Width="482"/>
+                </StackPanel>
+            </StackPanel>
+        </materialDesign:DialogHost>
+    </Grid>
+</Window>

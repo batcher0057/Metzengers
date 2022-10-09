@@ -1,0 +1,36 @@
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.csproj.AssemblyReference.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.AssemblyInfoInputs.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.AssemblyInfo.cs
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\bin\Debug\net6.0\MetzNenger.Core.Data.deps.json
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\bin\Debug\net6.0\MetzNenger.Core.Data.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\bin\Debug\net6.0\MetzNenger.Core.Data.pdb
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\refint\MetzNenger.Core.Data.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.pdb
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\ref\MetzNenger.Core.Data.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\bin\Debug\net6.0\MetzNenger.Core.Data.deps.json
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\bin\Debug\net6.0\MetzNenger.Core.Data.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\bin\Debug\net6.0\MetzNenger.Core.Data.pdb
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.csproj.AssemblyReference.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.AssemblyInfoInputs.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.AssemblyInfo.cs
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\refint\MetzNenger.Core.Data.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.pdb
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\ref\MetzNenger.Core.Data.dll
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\bin\Debug\net6.0\MetzNenger.Core.Data.deps.json
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\bin\Debug\net6.0\MetzNenger.Core.Data.dll
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\bin\Debug\net6.0\MetzNenger.Core.Data.pdb
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.AssemblyInfo.cs
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.dll
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\refint\MetzNenger.Core.Data.dll
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\MetzNenger.Core.Data.pdb
+C:\Users\Utilisateur\Downloads\MetzNenger_Asp_dotNet_MVC (1)\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\MetzNenger.Core.Data\obj\Debug\net6.0\ref\MetzNenger.Core.Data.dll

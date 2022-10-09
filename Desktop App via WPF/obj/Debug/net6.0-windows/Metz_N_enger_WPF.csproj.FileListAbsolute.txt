@@ -1,0 +1,528 @@
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.exe
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.deps.json
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.runtimeconfig.json
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.AssemblyReference.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.lref
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\App.baml
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.g.resources
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfoInputs.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfo.cs
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CopyComplete
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\refint\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.genruntimeconfig.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\ref\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\SoftWare.g.cs
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\SoftWare.baml
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\View\RegisterWidows.g.cs
+C:\Users\Barne\OneDrive\Bureau\DotNet\Metz_N_enger_WPF\obj\Debug\net6.0-windows\View\RegisterWidows.baml
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.exe
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.deps.json
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.runtimeconfig.json
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\SoftWare.g.cs
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\View\RegisterWidows.g.cs
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.cache
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.lref
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\App.baml
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\SoftWare.baml
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\View\RegisterWidows.baml
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.g.resources
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfo.cs
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CopyComplete
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\refint\Metz_N_enger_WPF.dll
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.genruntimeconfig.cache
+C:\Users\Utilisateur\Downloads\Metz_N_enger_WPF\obj\Debug\net6.0-windows\ref\Metz_N_enger_WPF.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.AssemblyReference.cache
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\SoftWare.g.cs
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\View\RegisterWidows.g.cs
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.cache
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.lref
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\refint\Metz_N_enger_WPF.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.exe
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.deps.json
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.runtimeconfig.json
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\App.baml
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\SoftWare.baml
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\View\RegisterWidows.baml
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.g.resources
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfoInputs.cache
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfo.cs
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CopyComplete
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.genruntimeconfig.cache
+C:\Users\Barne\Downloads\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\ref\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.exe
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.deps.json
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.runtimeconfig.json
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.AssemblyReference.cache
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\View\RegisterWidows.g.cs
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.cache
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.lref
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\App.baml
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\View\RegisterWidows.baml
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.g.resources
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfoInputs.cache
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfo.cs
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CopyComplete
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\refint\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.genruntimeconfig.cache
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\ref\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\View\SoftWare.g.cs
+C:\Users\Barne\OneDrive\Bureau\Metz_N_enger_WPF\Metz_N_enger_WPF\obj\Debug\net6.0-windows\View\SoftWare.baml
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.exe
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.deps.json
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.runtimeconfig.json
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.AssemblyReference.cache
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\View\RegisterWidows.g.cs
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\View\SoftWare.g.cs
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.cache
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.lref
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\App.baml
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\View\RegisterWidows.baml
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\View\SoftWare.baml
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.g.resources
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfoInputs.cache
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfo.cs
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CopyComplete
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\refint\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.genruntimeconfig.cache
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\ref\Metz_N_enger_WPF.dll
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\View\Account.g.cs
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\View\Account.baml
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\View\AccountPageAdmin.g.cs
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\View\AccountPageAdmin.baml
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\View\SendPersonnalMessage.g.cs
+C:\Users\Barne\OneDrive\Bureau\Desktop App via WPF\obj\Debug\net6.0-windows\View\SendPersonnalMessage.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\Account.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\AccountPageAdmin.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\RegisterWidows.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SendPersonnalMessage.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SoftWare.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.cache
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.lref
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\refint\Metz_N_enger_WPF.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.exe
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.deps.json
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.runtimeconfig.json
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\App.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\Account.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\AccountPageAdmin.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\RegisterWidows.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SendPersonnalMessage.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SoftWare.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.g.resources
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfo.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CopyComplete
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.genruntimeconfig.cache
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\ref\Metz_N_enger_WPF.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.exe
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.deps.json
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.runtimeconfig.json
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.AssemblyReference.cache
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\Account.g.cs
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\AccountPageAdmin.g.cs
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\RegisterWidows.g.cs
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SendPersonnalMessage.g.cs
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SoftWare.g.cs
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.cache
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.lref
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\App.baml
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\Account.baml
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\AccountPageAdmin.baml
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\RegisterWidows.baml
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SendPersonnalMessage.baml
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SoftWare.baml
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.g.resources
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfoInputs.cache
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfo.cs
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CopyComplete
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\refint\Metz_N_enger_WPF.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.genruntimeconfig.cache
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\ref\Metz_N_enger_WPF.dll
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\ModifierPage.g.cs
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\ModifierPage.baml
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\ModifierPassword.g.cs
+C:\Users\Barne\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\ModifierPassword.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.exe
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.deps.json
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.runtimeconfig.json
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\Account.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\AccountPageAdmin.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\ModifierPage.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\ModifierPassword.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\RegisterWidows.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SendPersonnalMessage.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SoftWare.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.cache
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF_MarkupCompile.lref
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\App.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\Account.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\AccountPageAdmin.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\ModifierPage.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\ModifierPassword.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\RegisterWidows.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SendPersonnalMessage.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\View\SoftWare.baml
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.g.resources
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.AssemblyInfo.cs
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.csproj.CopyComplete
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\refint\Metz_N_enger_WPF.dll
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.pdb
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\Metz_N_enger_WPF.genruntimeconfig.cache
+C:\Users\Utilisateur\Downloads\Desktop App via WPF_last\Desktop App via WPF_last\Desktop App via WPF\obj\Debug\net6.0-windows\ref\Metz_N_enger_WPF.dll

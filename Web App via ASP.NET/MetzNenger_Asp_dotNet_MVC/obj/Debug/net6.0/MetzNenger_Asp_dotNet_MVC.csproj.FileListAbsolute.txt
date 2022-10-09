@@ -1,0 +1,8 @@
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\obj\Debug\net6.0\MetzNenger_Asp_dotNet_MVC.csproj.AssemblyReference.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\obj\Debug\net6.0\MetzNenger_Asp_dotNet_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\obj\Debug\net6.0\MetzNenger_Asp_dotNet_MVC.AssemblyInfoInputs.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\obj\Debug\net6.0\MetzNenger_Asp_dotNet_MVC.AssemblyInfo.cs
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\obj\Debug\net6.0\MetzNenger_Asp_dotNet_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\obj\Debug\net6.0\MetzNenger_Asp_dotNet_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\obj\Debug\net6.0\MetzNenger_Asp_dotNet_MVC.RazorAssemblyInfo.cache
+C:\Users\Barne\OneDrive\Bureau\DotNet\MetzNenger_Asp_dotNet_MVC\MetzNenger_Asp_dotNet_MVC\obj\Debug\net6.0\MetzNenger_Asp_dotNet_MVC.RazorAssemblyInfo.cs

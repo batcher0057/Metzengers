@@ -1,0 +1,42 @@
+//Lister toutes les promotions
+SELECT * FROM Classe ORDER BY id_promotion;
+
+//Lister tous les utilisateurs
+SELECT * FROM Utilisateur ORDER BY id_utilisateur;
+
+//Lister tous les channels
+SELECT * FROM Channel ORDER BY id_channel;
+
+//Lister tous les messages
+SELECT * FROM Message ORDER BY id_message;
+
+//Lister tous les fichiers
+SELECT * FROM Fichier ORDER BY id_fichier;
+
+//Compter le nombre de signets
+SELECT COUNT(id_signet) FROM Signet;
+
+//Rechercher l'administrateur
+SELECT * FROM Utilisateur WHERE statut_administratif='Administrateur';
+
+//Trouver tous les messages de l'utilisateur ayant pour pseudo "BlueMoon"
+SELECT id_message,horodatage,corps FROM Utilisateur,Message WHERE Utilisateur.pseudo = 'BlueMoon' AND Message.id_utilisateur = Utilisateur.id_utilisateur;
+
+//Lister tous les utilisateurs de la promotion "RAN2"
+SELECT nom,prenom,pseudo FROM Utilisateur,Classe WHERE Classe.libelle_promotion = 'RAN2' AND Utilisateur.id_promotion = Classe.id_promotion;
+
+#########################################################################################################################################################
+
+//Connexion de l'utilisateur : la requête retourne le statut du compte (1 si activé, 0 si pas activé), si le compte n'existe pas ça renvoie rien (= null)
+SELECT validation_compte FROM Utilisateur WHERE email = 'facilisis.lorem.tristique@protonmail.ca' AND password = 'ASR82QKS6DL';
+
+//Inscription d'un nouvel utilisateur
+INSERT INTO Utilisateur (email,password,pseudo,statut_administratif,nom,prenom,telephone,validation_compte,id_promotion)
+VALUES ('mordreck@yahoo.com','FMD98CVG6KY','baron Mordreck','Etudiant','Matou','Olivier','02 45 15 84 11',0,2);
+
+//L'utilisateur envoie un nouveau message avec une pièce jointe
+INSERT INTO Message (horodatage,corps,enregistrement_favori,id_utilisateur,id_channel)
+VALUES ('2022-12-31 14:08:01','coucou c''est Oliv, j''ai trouvé un super tuto concernant les jointures SQL Server',0,34,2);
+   
+INSERT INTO Fichier (nom_fichier,type_fichier,hachage_fichier)
+VALUES ('Cours IFA HYFEN L''entretien d''embauche.pdf','document','7cf282448fd3e925da791805dca84f9eaac5678c');

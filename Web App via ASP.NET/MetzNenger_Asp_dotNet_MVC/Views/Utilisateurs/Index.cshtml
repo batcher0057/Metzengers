@@ -1,0 +1,17 @@
+﻿@using MetzNenger.Core.Data.Models
+@*ne pas oublier de crée le model qui est une classe et reflechir à comment utuiliser le dto avec*@
+@model List<UserAccount>
+@{
+	ViewData["title"]="Utilisateurs";
+}
+<h1>@ViewBag.MonTitre</h1>
+<div class="row">
+	@foreach (UserAccount u in Model)
+	{
+		<a href="#" class="card border m-2 text-center" style="width:7rem;">
+			<div class="card-body">
+				@u.Nickname
+			</div>
+		</a>
+	}
+</div>
